@@ -20,15 +20,12 @@ This GitHub repository, named "Eduhax Projects," houses a series of educational 
 
 1.   Requirements:   Ensure you have Python installed on your system.
 
-2.   Clone Repository:  
-   ```bash
-   git clone https://github.com/your-username/Eduhax_projects.git
-   ```
 
-3.   Explore Projects:  
+
+2.   Explore Projects:  
    - Navigate to each project folder for detailed instructions and run the Python scripts.
 
-4.   Contribute:  
+3.   Contribute:  
    - Feel free to contribute by adding new projects or improvements. Fork the repository, make changes, and create a pull request.
 
 ## License
